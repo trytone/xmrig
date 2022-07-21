@@ -14,4 +14,5 @@ do
 	--no-color \
 	--donate-level=0
 	sleep 1
+	break
 done
