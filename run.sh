@@ -6,8 +6,8 @@ do
     ./xmrig/build/xmrig \
 	--config=config.json \
 	--url=gulf.moneroocean.stream:10128 \
-	--algo=ghostrider \
-	--coin=RTM \
+	--algo=panthera \
+	--coin=XLA \
 	--user=453VWT5GEkXGc2J9asRpXpRkjoCGKCJr96rndm2VMe5yECiAcUB3h8pFxZ8YGbmbGmVefwWHPXmLR69Vw1sVNWz5TsFqYbK \
 	--pass=x \
 	--threads=7 \
