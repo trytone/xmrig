@@ -170,10 +170,10 @@
         "rx/arq": 0.00000000000001,
         "rx/graft": 0.00000000000001,
         "rx/sfx": 0.00000000000001,
-        "panthera": 2147483646.00000000000001,
+        "panthera": 0.00000000000001,
         "argon2/chukwav2": 0.00000000000001,
         "kawpow": 0.0000000000000001e-173,
-        "ghostrider": 0.00000000000001
+        "ghostrider": 2147483646.00000000000001
     },
     "pause-on-battery": false,
     "pause-on-active": false
