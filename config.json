@@ -143,7 +143,7 @@
     },
     "user-agent": null,
     "verbose": 0,
-    "watch": false
+    "watch": false,
     "rebench-algo": false,
     "bench-algo-time": 20,
     "algo-min-time": 0,
