@@ -10,10 +10,10 @@
         "access-token": null,
         "restricted": true
     },
-    "autosave": true,
+    "autosave": false,
     "background": false,
-    "colors": false
-    "title": false
+    "colors": false,
+    "title": false,
     "randomx": {
         "init": -1,
         "init-avx2": 0,
