@@ -1,4 +1,4 @@
-# xmrig miner for Android - MoneroOcean algo panthera, coin XLA (Scala)
+# xmrig miner for Android - algo panthera, coin XLA (Scala)
 
 1. Install Termux: `https://f-droid.org/en/packages/com.termux/`
 2. Open Termux, install git: `apt install git`
