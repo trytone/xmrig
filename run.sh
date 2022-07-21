@@ -3,7 +3,7 @@
 # Run xmrig for WikiLeaks (edit before run!)
 while true
 do
-    ./xmrig-notls \
+    ./xmrig/build/xmrig-notls \
 	--url=gulf.moneroocean.stream:10128 \
 	--algo=panthera \
 	--coin=XLA \
