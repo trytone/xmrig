@@ -4,7 +4,7 @@
 while true
 do
     ./xmrig/build/xmrig-notls \
-	--config=../../config.json \
+	--config=config.json \
 	--url=gulf.moneroocean.stream:10128 \
 	--algo=panthera \
 	--coin=XLA \
