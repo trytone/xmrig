@@ -16,10 +16,10 @@ mkdir ./xmrig/build
 cd ./xmrig/build
 
 # Prepare files for compiler
-cmake -DWITH_HWLOC=OFF ..
+cmake -DWITH_HWLOC=OFF -DWITH_TLS=OFF ..
 
 # Compile xmrig
 make -j$(nproc || sysctl -n hw.ncpu || sysctl -n hw.logicalcpu)
 
 # Make it executable
-chmod +x ./xmrig
+chmod +x ./xmrig-notls
